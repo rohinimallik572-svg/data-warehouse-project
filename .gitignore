@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+data/warehouse.db
+data/raw/
+data/processed/
+.DS_Store
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+spark-warehouse/
+derby.log
+metastore_db/
